@@ -1,0 +1,79 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl mat0.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\whitewall.jpg
+
+newmtl mat1.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\dirtymetal.jpg
+
+newmtl mat2.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\white.jpg
+
+newmtl mat3.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\metalpanels2.jpg
+
+newmtl mat4.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\concretefloor.jpg
+
+newmtl mat5.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\misc.jpg
+
+newmtl mat6.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\metalpanels.jpg

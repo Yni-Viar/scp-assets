@@ -1,0 +1,244 @@
+# Blender MTL File: 'room4InfoCenter.blend'
+# Material Count: 22
+
+newmtl drawnmesh0
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\Pipes_NoRust2.jpg
+
+newmtl drawnmesh10
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\white.jpg
+
+newmtl drawnmesh11
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\soft grey.jpg
+
+newmtl drawnmesh12
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\concretefloor.jpg
+
+newmtl drawnmesh16
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\Desktop\\cb ue goes brrrrrr oder so\\mat_glass.png
+
+newmtl drawnmesh17
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\Desktop\\cb ue goes brrrrrr oder so\\glass.png
+
+newmtl drawnmesh19
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\door.jpg
+
+newmtl drawnmesh2
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\misc.jpg
+
+newmtl drawnmesh21
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\controlpanel.jpg
+
+newmtl drawnmesh22
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\miscsigns3.jpg
+
+newmtl drawnmesh23
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\miscsigns4.jpg
+
+newmtl drawnmesh24
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\miscsigns.jpg
+
+newmtl drawnmesh25
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\SLH_miscsigns.jpg
+
+newmtl drawnmesh26
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\metalpanels.jpg
+
+newmtl drawnmesh27
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\red.jpg
+
+newmtl drawnmesh3
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\dirtymetal.jpg
+
+newmtl drawnmesh4
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\metal.jpg
+
+newmtl drawnmesh5
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\2_office_lamps_dif.jpg
+
+newmtl drawnmesh6
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\keyboard.jpg
+
+newmtl drawnmesh7
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\papertexture.jpg
+
+newmtl drawnmesh8
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\ceiling.jpg
+
+newmtl drawnmesh9
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\DeveloperData\\Unity\\SCPBD\\Assets\\_Textures\\SCP - CB\\Map\\whitewall.jpg

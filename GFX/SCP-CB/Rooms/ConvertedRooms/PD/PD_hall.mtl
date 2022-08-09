@@ -1,0 +1,74 @@
+# exported by Irrlicht
+
+newmtl mat0
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/pdwall.jpg
+
+newmtl mat1
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/pdfloor.jpg
+
+newmtl mat2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/rockmoss.jpg
+
+newmtl mat3
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/concretemoss.jpg
+
+newmtl mat4
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/vent.jpg
+
+newmtl mat5
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/rockmoss.jpg
+
+newmtl mat6
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/pdwall.jpg
+
+newmtl mat7
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/pdfloor.jpg
+
+newmtl mat8
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd f:/GameDevelop/SCPF_assets/assets/Data/GFX/map/PD/flat_monitor.jpg
+

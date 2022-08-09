@@ -1,0 +1,189 @@
+# Blender MTL File: 'None'
+# Material Count: 17
+
+newmtl mat0.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\concretefloor.jpg
+
+newmtl mat1.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\whitewall.jpg
+
+newmtl mat10.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\misc.jpg
+
+newmtl mat11.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\door01.jpg
+
+newmtl mat12.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\white.jpg
+
+newmtl mat13.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\concretefloor.jpg
+
+newmtl mat14.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\whitewall.jpg
+
+newmtl mat15.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\door01.jpg
+
+newmtl mat16.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\dirtymetal.jpg
+
+newmtl mat2.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\white.jpg
+
+newmtl mat3.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\metal.jpg
+
+newmtl mat4.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\scplogo.jpg
+
+newmtl mat5.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\metalpanels2.jpg
+
+newmtl mat6.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\dirtymetal.jpg
+
+newmtl mat7.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\tilefloor.jpg
+
+newmtl mat8.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\metalpanels.jpg
+
+newmtl mat9.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPDF_assets\\assets\\Data\\GFX\\map\\LCZ_B3D\\glass.png

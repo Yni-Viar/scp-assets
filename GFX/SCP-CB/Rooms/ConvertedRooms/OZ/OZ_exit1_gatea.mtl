@@ -1,0 +1,156 @@
+# Blender MTL File: 'roomScp012.blend'
+# Material Count: 14
+
+newmtl mat0.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\2_office_lamps_dif.jpg
+
+newmtl mat1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\containment_doors.jpg
+
+newmtl mat10.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\scplogo.jpg
+
+newmtl mat11.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\miscsigns2.jpg
+
+newmtl mat12.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\metal.jpg
+
+newmtl mat13.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\metal3.jpg
+
+newmtl mat2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\pipes.jpg
+
+newmtl mat3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\tilefloor.jpg
+
+newmtl mat4.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\concretefloor.jpg
+
+newmtl mat5.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\dirtymetal.jpg
+
+newmtl mat6.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\officewall.jpg
+
+newmtl mat7.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\whitewall.jpg
+
+newmtl mat8.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\metalpanels2.jpg
+
+newmtl mat9.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\DeveloperData\\dev_scpcb\\6\\SCPCB\\GFX\\map\\misc.jpg
