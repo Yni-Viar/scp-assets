@@ -1,0 +1,1 @@
+Guard - Shadowscale (model, textures)

@@ -1,0 +1,1 @@
+SCP-3199 - Aruspice (model, textures), Shakles (rig, animation)

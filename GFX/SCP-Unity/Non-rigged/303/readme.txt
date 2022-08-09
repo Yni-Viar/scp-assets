@@ -1,0 +1,1 @@
+SCP-303 - Aruspice (model, textures)

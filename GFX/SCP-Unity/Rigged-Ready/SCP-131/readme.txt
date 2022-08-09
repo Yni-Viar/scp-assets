@@ -1,0 +1,1 @@
+SCP-131 - Aruspice (model, textures), Shakles (rig, animation)

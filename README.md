@@ -11,10 +11,9 @@ These assets are based on the works of the SCP Foundation community (http://www.
 http://creativecommons.org/licenses/by-sa/3.0/
 
 ---
-
 I have credited authors where it was possible, in other cases,
-these assets are from the SCP - Containment Breach game and it's mods(like Box of Horrors, SCP: Nine-Tailed Fox, Ultimate Edition).
+these assets are from the SCP - Containment Breach game, it's mods(like Box of Horrors, SCP: Nine-Tailed Fox, Ultimate Edition) and SCP Unity.
 
 ---
 
-More assets will be added soon.
+more assets are coming soon...

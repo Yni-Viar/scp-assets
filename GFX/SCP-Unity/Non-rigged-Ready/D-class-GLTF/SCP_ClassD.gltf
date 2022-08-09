@@ -1,0 +1,323 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.7.33",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "base.obj",
+            "rotation" : [
+                -1,
+                0,
+                0,
+                7.549790126404332e-08
+            ],
+            "scale" : [
+                0.1395588368177414,
+                0.1395588368177414,
+                0.1395588368177414
+            ],
+            "translation" : [
+                0,
+                2.404039144515991,
+                0.006731026340276003
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Class D",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                1.0455642938613892,
+                1.0455642938613892,
+                1.0455642938613892
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Face.001",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 2
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Class D.001",
+            "normalTexture" : {
+                "index" : 3
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 4
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 5
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "base.obj.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2,
+                        "COLOR_0" : 3
+                    },
+                    "indices" : 4,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Class D.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 5,
+                        "NORMAL" : 6,
+                        "TEXCOORD_0" : 7,
+                        "COLOR_0" : 8
+                    },
+                    "indices" : 9,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        },
+        {
+            "sampler" : 0,
+            "source" : 5
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Class D2_Face_Normal",
+            "uri" : "Class%20D2_Face_Normal.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Class_D2_Face_AlbedoTransparency.png",
+            "uri" : "Class_D2_Face_AlbedoTransparency_png.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Class D2_Face_MetallicSmoothness",
+            "uri" : "Class%20D2_Face_MetallicSmoothness.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Class D2_Class D_Normal.png",
+            "uri" : "Class%20D2_Class%20D_Normal_png.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Class D2_Class D_AlbedoTransparency.png",
+            "uri" : "Class%20D2_Class%20D_AlbedoTransparency_png.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Class D2_Class D_MetallicSmoothness",
+            "uri" : "Class%20D2_Class%20D_MetallicSmoothness.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 8865,
+            "max" : [
+                0.8827998042106628,
+                1.5273561477661133,
+                1.2220611572265625
+            ],
+            "min" : [
+                -0.8828001618385315,
+                -1.327474594116211,
+                -1.0000388622283936
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 8865,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 8865,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 8865,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5123,
+            "count" : 46452,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 6680,
+            "max" : [
+                0.6444095969200134,
+                0.21941277384757996,
+                -0.002009047195315361
+            ],
+            "min" : [
+                -0.6444095969200134,
+                -0.18252414464950562,
+                -2.1774632930755615
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 6680,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 6680,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5123,
+            "count" : 6680,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5123,
+            "count" : 28590,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 106380,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 106380,
+            "byteOffset" : 106380
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 70920,
+            "byteOffset" : 212760
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 70920,
+            "byteOffset" : 283680
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 92904,
+            "byteOffset" : 354600
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 80160,
+            "byteOffset" : 447504
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 80160,
+            "byteOffset" : 527664
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 53440,
+            "byteOffset" : 607824
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 53440,
+            "byteOffset" : 661264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 57180,
+            "byteOffset" : 714704
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 771884,
+            "uri" : "SCP_ClassD.bin"
+        }
+    ]
+}

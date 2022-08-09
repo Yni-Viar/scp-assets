@@ -1,0 +1,1 @@
+SCP-983 - Aruspice (model, textures, rig, animation)
