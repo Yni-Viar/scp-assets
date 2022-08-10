@@ -1,5 +1,5 @@
 I have added not all SCP-Unity models(only a few), because some of them cannot be added to GitHub because of technical restrictions.
-Instead, I will post a [link](https://drive.google.com/drive/folders/1n0hdJB0ip9ZydfOTBpFcbubkYjVq2ddr) to the full released pack of SCP Unity models.
+Instead, I will post a [link](https://drive.google.com/drive/folders/1YBZj8SOO0CAhm20wnCOz4ThgEXn_i7wK?usp=sharing) to the full released pack of SCP Unity models.
 
 ---
 
