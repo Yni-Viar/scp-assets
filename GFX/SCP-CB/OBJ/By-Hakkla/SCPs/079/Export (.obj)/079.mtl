@@ -1,0 +1,127 @@
+# Exported from Wings 3D 1.4.1
+newmtl 079_computer_1
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.001 0.001 0.001
+Ke 0.001 0.001 0.001
+map_Kd 079_computer_1.png
+
+newmtl 079_computer_2
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.001 0.001 0.001
+Ke 0.001 0.001 0.001
+map_Kd 079_computer_2.png
+
+newmtl 079_connectors
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd 079_peripherals.png
+
+newmtl 079_drive
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd 079_peripherals.png
+
+newmtl 079_drive_light
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.001 0.001 0.001
+map_Kd 079_peripherals.png
+
+newmtl 079_monitor
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd 079_monitor.png
+
+newmtl 079_monitor_light
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.001 0.001 0.001
+map_Kd 079_monitor.png
+
+newmtl 079_monitor_screen
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd 079_monitor_screen.png
+
+newmtl 079_powersource
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd 079_peripherals.png
+
+newmtl black
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.001 0.001 0.001
+Ka 0.001 0.001 0.001
+Ks 0.001 0.001 0.001
+Ke 0.0 0.0 0.0
+
+newmtl cable1
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.7568713076923077 0.7669 0.7017135000000001
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl cable2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.110293 0.117333 0.110293
+Ka 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+

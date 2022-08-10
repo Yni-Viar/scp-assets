@@ -1,0 +1,5 @@
+Model originally made by risingstar64.
+
+Model was slightly edited. Diffuse textures were added.
+
+For most applications, the contents of "Wavefront .obj" folder should be enough.

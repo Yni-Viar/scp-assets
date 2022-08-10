@@ -1,0 +1,1 @@
+All assets, created in this folder, are by Hakkla( + one asset remixed by them).
