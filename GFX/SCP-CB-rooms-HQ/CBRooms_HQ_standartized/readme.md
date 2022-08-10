@@ -1,0 +1,1 @@
+need to minimize the 0.01x CB room to 0.9765
