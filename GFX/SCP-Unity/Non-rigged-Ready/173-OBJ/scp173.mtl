@@ -1,16 +1,14 @@
 # Blender MTL File: 'None'
 # Material Count: 1
 
-newmtl Merged_PM3D_Sphere3D4.001
-Ns 179.999996
+newmtl Merged_PM3D_Sphere3D4
+Ns 250.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.500000 0.500000 0.500000
-Ks 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 3
-map_Bump Textures\\Merged_PM3D_Sphere3D4_Normal_OpenGL.png
-map_Kd Textures\\Merged_PM3D_Sphere3D4_Base_Color.png
-map_Ns Textures\\Merged_PM3D_Sphere3D4_Roughness.png
-refl Textures\\Merged_PM3D_Sphere3D4_Metallic.png
+illum 2
+map_Bump Merged_PM3D_Sphere3D4_Normal_OpenGL.png
+map_Kd Merged_PM3D_Sphere3D4_Base_Color.png

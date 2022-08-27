@@ -1,0 +1,166 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.43",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Merged_PM3D_Sphere3D4",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                0.09999999403953552,
+                0.10000000149011612,
+                0.09999999403953552
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Merged_PM3D_Sphere3D4",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 2
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Merged_PM3D_Sphere3D4",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Merged_PM3D_Sphere3D4_Normal_OpenGL",
+            "uri" : "Merged_PM3D_Sphere3D4_Normal_OpenGL.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Merged_PM3D_Sphere3D4_Base_Color",
+            "uri" : "Merged_PM3D_Sphere3D4_Base_Color.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Merged_PM3D_Sphere3D4_Metallic-Merged_PM3D_Sphere3D4_Roughness",
+            "uri" : "Merged_PM3D_Sphere3D4_Metallic-Merged_PM3D_Sphere3D4_Roughness.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 8495,
+            "max" : [
+                0.9054357409477234,
+                0.6718273162841797,
+                2.378324031829834
+            ],
+            "min" : [
+                -0.9054357409477234,
+                -1.0953657627105713,
+                -2.85199236869812
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 8495,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 8495,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 48312,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 101940,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 101940,
+            "byteOffset" : 101940
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 67960,
+            "byteOffset" : 203880
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96624,
+            "byteOffset" : 271840
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 368464,
+            "uri" : "scp173.bin"
+        }
+    ]
+}
