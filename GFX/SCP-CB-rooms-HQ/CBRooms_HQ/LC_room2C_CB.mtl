@@ -1,42 +1,57 @@
-# exported by Irrlicht
+# Blender MTL File: 'None'
+# Material Count: 5
 
-newmtl mat0
-Ka 0.752941 0.752941 0.752941
+newmtl mat0.003
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
 Kd 0.752941 0.752941 0.752941
 Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
-Ns 2.441406
-map_Kd f:/GameDevelop/CBRooms_Original/Rooms4Export/tilefloor.jpg
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tilefloor.jpg
 
-newmtl mat1
-Ka 0.752941 0.752941 0.752941
+newmtl mat1.003
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
 Kd 0.752941 0.752941 0.752941
 Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
-Ns 2.441406
-map_Kd f:/GameDevelop/CBRooms_Original/Rooms4Export/concretefloor.jpg
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd concretefloor.jpg
 
-newmtl mat2
-Ka 0.752941 0.752941 0.752941
+newmtl mat2.003
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
 Kd 0.752941 0.752941 0.752941
 Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
-Ns 2.441406
-map_Kd f:/GameDevelop/CBRooms_Original/Rooms4Export/whitewall_2k.jpg
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd whitewall_2k.jpg
 
-newmtl mat3
-Ka 0.752941 0.752941 0.752941
+newmtl mat3.003
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
 Kd 0.752941 0.752941 0.752941
 Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
-Ns 2.441406
-map_Kd f:/GameDevelop/CBRooms_Original/Rooms4Export/metalpanels2.jpg
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd metalpanels2.jpg
 
-newmtl mat4
-Ka 0.752941 0.752941 0.752941
+newmtl mat4.003
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
 Kd 0.752941 0.752941 0.752941
 Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
-Ns 2.441406
-map_Kd f:/GameDevelop/CBRooms_Original/Rooms4Export/dirtymetal.jpg
-
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd dirtymetal.jpg
