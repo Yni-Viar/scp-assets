@@ -1,0 +1,92 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl mat0.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/misc.jpg
+
+newmtl mat1.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/ceiling.jpg
+
+newmtl mat2.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/metal.jpg
+
+newmtl mat3.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/dirtymetal.jpg
+
+newmtl mat4.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/tilefloor.jpg
+
+newmtl mat5.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/white.jpg
+
+newmtl mat6.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/officewall.jpg
+
+newmtl mat7.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/controlpanel.jpg
+
+newmtl mat8.004
+Ns 2.441406
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:/Data/DeveloperData/Repositories/scp-assets-pre-rooms/Rooms4Export/miscsigns3.jpg

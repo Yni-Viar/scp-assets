@@ -1,0 +1,79 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl mat0.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\officewall.jpg
+
+newmtl mat1.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\ceiling.jpg
+
+newmtl mat2.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\misc.jpg
+
+newmtl mat3.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\tilefloor.jpg
+
+newmtl mat4.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\dirtymetal.jpg
+
+newmtl mat5.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\metal.jpg
+
+newmtl mat6.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f:\\GameDevelop\\SCPF_assets\\assets\\Data\\GFX\\map\\cbmap_B3D\\metalpanels.jpg
