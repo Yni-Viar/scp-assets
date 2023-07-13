@@ -21,10 +21,10 @@
 			"mesh":0,
 			"name":"RZ_room2_servers",
 			"rotation":[
-				0.7071068286895752,
+				0.70710688829422,
 				0,
 				0,
-				0.7071068286895752
+				0.7071066498756409
 			]
 		}
 	],
@@ -741,7 +741,7 @@
 		{
 			"bufferView":24,
 			"componentType":5126,
-			"count":3839,
+			"count":3840,
 			"max":[
 				3.1400539875030518,
 				10.239999771118164,
@@ -757,13 +757,13 @@
 		{
 			"bufferView":25,
 			"componentType":5126,
-			"count":3839,
+			"count":3840,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":26,
 			"componentType":5126,
-			"count":3839,
+			"count":3840,
 			"type":"VEC3"
 		},
 		{
@@ -1078,134 +1078,134 @@
 		},
 		{
 			"buffer":0,
-			"byteLength":46068,
+			"byteLength":46080,
 			"byteOffset":27440,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":30712,
-			"byteOffset":73508,
+			"byteLength":30720,
+			"byteOffset":73520,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":46068,
-			"byteOffset":104220,
+			"byteLength":46080,
+			"byteOffset":104240,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":12768,
-			"byteOffset":150288,
+			"byteOffset":150320,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":10656,
-			"byteOffset":163056,
+			"byteOffset":163088,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":7104,
-			"byteOffset":173712,
+			"byteOffset":173744,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":10656,
-			"byteOffset":180816,
+			"byteOffset":180848,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2664,
-			"byteOffset":191472,
+			"byteOffset":191504,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":19680,
-			"byteOffset":194136,
+			"byteOffset":194168,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":13120,
-			"byteOffset":213816,
+			"byteOffset":213848,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":19680,
-			"byteOffset":226936,
+			"byteOffset":226968,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":4920,
-			"byteOffset":246616,
+			"byteOffset":246648,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":251536,
+			"byteOffset":251568,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":192,
-			"byteOffset":251824,
+			"byteOffset":251856,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":252016,
+			"byteOffset":252048,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":72,
-			"byteOffset":252304,
+			"byteOffset":252336,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":252376,
+			"byteOffset":252408,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":192,
-			"byteOffset":252664,
+			"byteOffset":252696,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":252856,
+			"byteOffset":252888,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":96,
-			"byteOffset":253144,
+			"byteOffset":253176,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":64,
-			"byteOffset":253240,
+			"byteOffset":253272,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":96,
-			"byteOffset":253304,
+			"byteOffset":253336,
 			"target":34962
 		}
 	],
@@ -1217,7 +1217,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":253400,
+			"byteLength":253432,
 			"uri":"RZ_room2_servers.bin"
 		}
 	]
