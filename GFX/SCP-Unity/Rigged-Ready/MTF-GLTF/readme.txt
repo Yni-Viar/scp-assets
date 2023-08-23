@@ -1,0 +1,1 @@
+Mobile Task Force Trooper - Shadowscale (model, textures), Shakles (rig, animation)
