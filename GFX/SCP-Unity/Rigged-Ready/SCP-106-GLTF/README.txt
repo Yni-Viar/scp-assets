@@ -1,0 +1,1 @@
+SCP-106 (version 3) - Aruspice (model, textures), Shakles (rig, animation), PixelPuffin (concept art)
