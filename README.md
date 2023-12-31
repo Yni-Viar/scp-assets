@@ -16,4 +16,4 @@ these assets are from the SCP - Containment Breach game, it's mods(like Box of H
 
 ---
 
-more assets are coming soon...
+If you want to contribute to the SCP: Site Online, please, read CONTRIBUTING.md.
