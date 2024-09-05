@@ -6,4 +6,4 @@
 6. Extract Irrlicht Engine .zip and move to ```<your_place_of_Irrlicht>\bin\Win32-VisualStudio\```
 7. Run ```meshconverter --format=obj <place_of_your_B3D_model*>* *<*place_of_your_new_OBJ_model>```
 As example ```meshconverter --format=obj d:\temp\CBRooms\LC_cont1_049.b3d d:\progs\irrlicht-1.8.5\bin\Win32-VisualStudio\LC_cont1_049.obj```
-It is better to store your OBJ file in the same folder as MeshConverter.exe, because .mtl file, necessary for materials, is stored there.
+It is better to store your OBJ file in the same folder as MeshConverter.exe, because .mtl file, necessary for materials, is always stored there.

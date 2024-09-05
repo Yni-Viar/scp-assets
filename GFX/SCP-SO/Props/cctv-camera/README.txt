@@ -1,2 +1,0 @@
-Made by Yni.
-License - CC0.

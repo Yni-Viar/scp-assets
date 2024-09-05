@@ -1,8 +1,6 @@
 # scp-assets
  My collection of SCP Assets
 
----
-
 General information
 ---
 
@@ -16,4 +14,4 @@ these assets are from the SCP - Containment Breach game, it's mods(like Box of H
 
 ---
 
-If you want to contribute to the SCP: Site Online, please, read CONTRIBUTING.md.
+If you want to contribute to the repository, please, read CONTRIBUTING.md.
