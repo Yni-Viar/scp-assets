@@ -1,16 +1,15 @@
 # scp-assets
- My collection of SCP Assets
+ My collection of SCP Assets (and more)
 
 General information
 ---
 
-These assets are based on the works of the SCP Foundation community (http://www.scp-wiki.net/) and are licensed under Creative Commons Attribution-ShareAlike 3.0 License.
-
-http://creativecommons.org/licenses/by-sa/3.0/
+License: CC-BY-SA 3.0 (for SCP-Containment Breach, it's mods and SCP: Unity assets), CC-BY-SA 4.0 (for SCP: Secret Laboratory assets and SCP: Site Online SCP themed assets) and CC-BY 4.0 (for SCP: Site Online non-SCP assets)
+Check LICENSE and README files, placed in the folder for more detail for the usage
 
 ---
 I have credited authors where it was possible, in other cases,
-these assets are from the SCP - Containment Breach game, it's mods(like Box of Horrors, SCP: Nine-Tailed Fox, Ultimate Edition) and SCP Unity.
+these assets are from the SCP - Containment Breach game, it's mods(like Box of Horrors, SCP: Nine-Tailed Fox, Ultimate Edition), SCP Unity and SCP: Secret Laboratory.
 
 ---
 
