@@ -1,6 +1,6 @@
 {
 	"asset":{
-		"generator":"Khronos glTF Blender I/O v3.6.27",
+		"generator":"Khronos glTF Blender I/O v4.2.57",
 		"version":"2.0"
 	},
 	"scene":0,
@@ -22,12 +22,17 @@
 		{
 			"doubleSided":true,
 			"name":"Material.001",
+			"normalTexture":{
+				"index":0
+			},
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"index":0
+					"index":1
 				},
 				"metallicFactor":0,
-				"roughnessFactor":0.19545453786849976
+				"metallicRoughnessTexture":{
+					"index":2
+				}
 			}
 		}
 	],
@@ -51,13 +56,31 @@
 		{
 			"sampler":0,
 			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
 		}
 	],
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"scp018_base",
-			"uri":"scp018_base.png"
+			"name":"Scp018_nor",
+			"uri":"Scp018_nor.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Scp018_base",
+			"uri":"Scp018_base.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Scp018_rough",
+			"uri":"Scp018_rough.png"
 		}
 	],
 	"accessors":[

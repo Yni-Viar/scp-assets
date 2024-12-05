@@ -4,12 +4,16 @@
 General information
 ---
 
-License: CC-BY-SA 3.0 (for SCP-Containment Breach, it's mods and SCP: Unity assets), CC-BY-SA 4.0 (for SCP: Secret Laboratory assets and SCP: Site Online SCP themed assets) and CC-BY 4.0 (for SCP: Site Online non-SCP assets)
+License: CC-BY-SA 3.0 for SCP - Containment Breach assets (currently it is only SCP-079), CC-BY-SA 3.0 with SCP-Wiki exception (for SCP: Unity assets), CC-BY-SA 4.0 (for SCP: Secret Laboratory assets and my own SCP themed assets) and CC-BY 4.0 (for my own non-SCP assets)
 Check LICENSE and README files, placed in the folder for more detail for the usage
+
+For SCP-Containment Breach rooms, check the git history (click on Commits button if you are using web interface) and download the archive.
+I removed them, because of possible licensing issues (I don't know about rooms, but for example, SCP-1499 model is from FPS Creator,
+which may violate the CC-BY-SA 3.0 license, as stated both in SCP-Containment Breach and SCP Foundation wiki)
 
 ---
 I have credited authors where it was possible, in other cases,
-these assets are from the SCP - Containment Breach game, it's mods(like Box of Horrors, SCP: Nine-Tailed Fox, Ultimate Edition), SCP Unity and SCP: Secret Laboratory.
+these assets are from the SCP - Containment Breach, SCP Unity and SCP: Secret Laboratory.
 
 ---
 
