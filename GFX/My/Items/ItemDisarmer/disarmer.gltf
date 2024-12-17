@@ -69,79 +69,79 @@
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"Disarmer_nor",
-			"uri":"Disarmer_nor.png"
+			"name":"Disarmer_nor.png",
+			"uri":"Disarmer_nor_png.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"Disarmer_base",
-			"uri":"Disarmer_base.png"
+			"name":"Disarmer_base.png",
+			"uri":"Disarmer_base_png.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"Disarmer_rough",
-			"uri":"Disarmer_rough.png"
+			"name":"Disarmer_rough.png",
+			"uri":"Disarmer_rough_png.png"
 		}
 	],
 	"accessors":[
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":365,
+			"count":472,
 			"max":[
 				0.21500003337860107,
-				1,
-				1
+				0.9735446572303772,
+				0.49254778027534485
 			],
 			"min":[
 				-0.21500003337860107,
 				-4.432849407196045,
-				-1
+				-0.49254778027534485
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":365,
+			"count":472,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":365,
+			"count":472,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":1221,
+			"count":1140,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":4380,
+			"byteLength":5664,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":4380,
-			"byteOffset":4380,
+			"byteLength":5664,
+			"byteOffset":5664,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":2920,
-			"byteOffset":8760,
+			"byteLength":3776,
+			"byteOffset":11328,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":2442,
-			"byteOffset":11680,
+			"byteLength":2280,
+			"byteOffset":15104,
 			"target":34963
 		}
 	],
@@ -153,7 +153,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":14124,
+			"byteLength":17384,
 			"uri":"disarmer.bin"
 		}
 	]
