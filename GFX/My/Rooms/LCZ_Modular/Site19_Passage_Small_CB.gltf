@@ -35,7 +35,7 @@
 					"specularFactor":0
 				}
 			},
-			"name":"lczwall.002",
+			"name":"lczwall.001",
 			"normalTexture":{
 				"index":0
 			},
@@ -55,7 +55,7 @@
 	],
 	"meshes":[
 		{
-			"name":"site19_passage",
+			"name":"site19_passage.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -103,8 +103,8 @@
 			],
 			"min":[
 				-10.240002632141113,
-				-0.16000042855739594,
-				-10.30715560913086
+				-0.16000111401081085,
+				-12.550277709960938
 			],
 			"type":"VEC3"
 		},
