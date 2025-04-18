@@ -87,7 +87,7 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":472,
+			"count":488,
 			"max":[
 				0.21500003337860107,
 				0.9735446572303772,
@@ -103,13 +103,13 @@
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":472,
+			"count":488,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":472,
+			"count":488,
 			"type":"VEC2"
 		},
 		{
@@ -122,26 +122,26 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":5664,
+			"byteLength":5856,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":5664,
-			"byteOffset":5664,
+			"byteLength":5856,
+			"byteOffset":5856,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":3776,
-			"byteOffset":11328,
+			"byteLength":3904,
+			"byteOffset":11712,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2280,
-			"byteOffset":15104,
+			"byteOffset":15616,
 			"target":34963
 		}
 	],
@@ -153,7 +153,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":17384,
+			"byteLength":17896,
 			"uri":"disarmer.bin"
 		}
 	]
