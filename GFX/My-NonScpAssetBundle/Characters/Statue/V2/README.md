@@ -1,6 +1,6 @@
 # License
 - Author: Yni Viar
-- License: CC-BY 4.0 or later
+- License: CC-BY 4.0 or CC-BY-SA 4.0 or later
 
 # About
 - Recently, I found the problem of CC-BY-SA - it is indeterminate in "Share Alike problem"
