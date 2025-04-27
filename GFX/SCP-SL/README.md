@@ -11,6 +11,8 @@
 ### Update 2025.04.26:
 I asked a question about asset license in SCP:SL official discord server, and received answer by a moderator (a Northwood staff), that assets, created by Northwood, are licensed under CC-BY-SA 3.0.
 
+Also Hubert Moszka (in HCZ Nuke room creation stream), also confirmed, that SCP:SL assets are CC-BY-SA.
+
 That means, some SCP: Secret Lab assets would be uploaded soon.
 
 
