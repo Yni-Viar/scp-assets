@@ -1,7 +1,7 @@
 # SCP: Secret Laboratory assets
 ## Folder structure
-/CCBYSA3/ is unofficial, but still CC-BY-SA 3.0 assets (as mentioned in Update 2025.04.26)
-/CCBYSA4/ is official assets, licensed under CC-BY-SA 4.0
+Non_official_CCBYSA3/ is unofficial, but still CC-BY-SA 3.0 assets (as mentioned in Update 2025.04.26)
+Official_CCBYSA4/ is official assets, licensed under CC-BY-SA 4.0
 
 ## Old question
 - Q: Why only HCZ textures and 14.0 human models are included?
