@@ -12,6 +12,13 @@ I removed them, because of possible licensing issues (I don't know about rooms, 
 which may violate the CC-BY-SA 3.0 license, as stated both in SCP-Containment Breach and SCP Foundation wiki)
 
 ---
+Regarding SCP: Secret Laboratory unofficial assets (which had only old HCZ rooms):
+
+I removed it from the repo (it may stay in Git history, but I do NOT recommend doing this), because they:
+1. Are not official, but extracted from the game.
+2. Their CC-BY-SA license *may* or *may not* apply on it -> resulting in possible licensing issues (see SCP:SL EULA).
+
+---
 I have credited authors where it was possible, in other cases,
 these assets are from the SCP - Containment Breach, SCP Unity and SCP: Secret Laboratory.
 
