@@ -6,6 +6,8 @@
 License: CC-BY-SA 3.0 for SCP - Containment Breach assets (currently it is only SCP-079), CC-BY-SA 3.0 with SCP-Wiki exception (for SCP: Unity and pop_pop_icard assets), CC-BY-SA 4.0 (for SCP: Secret Laboratory assets and my own SCP themed assets) and CC-BY 4.0 (for my own non-SCP assets)
 Check LICENSE and README files, placed in the folder for more detail for the usage
 
+**⚠️ SCP: Unity, SCP: SL and my assets are moved to submodule to reduce bandwidth usage.**
+
 ## Downloading assets
 
 If the filename is GLB, you can download it separately or whole .zip archive.

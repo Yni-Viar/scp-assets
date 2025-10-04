@@ -1,0 +1,9 @@
+[submodule "GFX/SCP-Unity"]
+	path = GFX/SCP-Unity
+	url = https://github.com/Yni-Viar/scp-unity-assets.git
+[submodule "GFX/SCP-SL"]
+	path = GFX/SCP-SL
+	url = https://github.com/Yni-Viar/scp-sl-assets.git
+[submodule "GFX/My"]
+	path = GFX/My
+	url = https://github.com/Yni-Viar/scp-assets-my.git
