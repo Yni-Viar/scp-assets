@@ -1,0 +1,11 @@
+Model Information:
+* title:	SCP-131 The Eye Pods
+* source:	https://sketchfab.com/3d-models/scp-131-the-eye-pods-92cacb2a6db143de9667c2b6b14f90a9
+* contact person:	sickbrick (https://sketchfab.com/sickbrick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+Author notice:
+SCP-131 The Eye Pods created for the SCP game Go Home Annie by Mateja Olujić. We’re releasing all models of SCPs we created for the game for free under the CC Attribution license.
