@@ -1,1 +1,1 @@
-All assets, created in this folder, are by Hakkla( + one asset remixed by them).
+All assets, created in this folder, are made by Hakkla( + one asset remixed by Yni).

@@ -1,5 +1,2 @@
-Personnel Zone by pop_pop_icard
-
-all rooms, except pz_room2_big and pz_room1 are not modified from original source, but
----
-pz_room2_big, pz_room2_offices, pz_ckpt2 and pz_room1 are modified by Yni (derivative work from room2)
+Personnel Zone by pop_pop_icard was moved into GFX/Mod/PersonnelZoneExtended/ ,
+since newer rooms were created by me (Yni), and it cannot stay ONLY in by_pop_pop_icard folder
